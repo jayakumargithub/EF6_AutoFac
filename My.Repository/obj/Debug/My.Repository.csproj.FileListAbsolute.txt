@@ -1,0 +1,14 @@
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.Repository\bin\Debug\My.Repository.dll.config
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.Repository\bin\Debug\My.Repository.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.Repository\bin\Debug\My.Repository.pdb
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.Repository\bin\Debug\EntityFramework.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.Repository\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.Repository\bin\Debug\EntityFramework.xml
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.Repository\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.Repository\obj\Debug\My.Repository.csprojResolveAssemblyReference.cache
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.Repository\obj\Debug\My.Repository.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.Repository\obj\Debug\My.Repository.pdb
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.Repository\bin\Debug\My.DataAccess.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.Repository\bin\Debug\My.DataAccess.pdb
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.Repository\bin\Debug\My.Entities.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.Repository\bin\Debug\My.Entities.pdb

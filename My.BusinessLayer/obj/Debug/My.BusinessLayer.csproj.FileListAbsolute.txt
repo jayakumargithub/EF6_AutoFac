@@ -1,0 +1,15 @@
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.BusinessLayer\bin\Debug\My.BusinessLayer.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.BusinessLayer\bin\Debug\My.BusinessLayer.pdb
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.BusinessLayer\obj\Debug\My.BusinessLayer.csprojResolveAssemblyReference.cache
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.BusinessLayer\obj\Debug\My.BusinessLayer.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.BusinessLayer\obj\Debug\My.BusinessLayer.pdb
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.BusinessLayer\bin\Debug\My.DataAccess.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.BusinessLayer\bin\Debug\My.Models.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.BusinessLayer\bin\Debug\My.Repository.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.BusinessLayer\bin\Debug\EntityFramework.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.BusinessLayer\bin\Debug\My.DataAccess.pdb
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.BusinessLayer\bin\Debug\My.Models.pdb
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.BusinessLayer\bin\Debug\My.Repository.pdb
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.BusinessLayer\bin\Debug\EntityFramework.xml
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.BusinessLayer\bin\Debug\My.Entities.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.BusinessLayer\bin\Debug\My.Entities.pdb

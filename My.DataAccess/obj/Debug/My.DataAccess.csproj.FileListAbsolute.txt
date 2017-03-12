@@ -1,0 +1,12 @@
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.DataAccess\bin\Debug\My.DataAccess.dll.config
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.DataAccess\bin\Debug\My.DataAccess.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.DataAccess\bin\Debug\My.DataAccess.pdb
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.DataAccess\bin\Debug\EntityFramework.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.DataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.DataAccess\bin\Debug\EntityFramework.xml
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.DataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.DataAccess\obj\Debug\My.DataAccess.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.DataAccess\obj\Debug\My.DataAccess.pdb
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.DataAccess\obj\Debug\My.DataAccess.csprojResolveAssemblyReference.cache
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.DataAccess\bin\Debug\My.Entities.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.DataAccess\bin\Debug\My.Entities.pdb

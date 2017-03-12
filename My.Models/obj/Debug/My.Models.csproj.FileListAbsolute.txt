@@ -1,0 +1,4 @@
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.Models\bin\Debug\My.Models.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.Models\bin\Debug\My.Models.pdb
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.Models\obj\Debug\My.Models.dll
+C:\Projects\EntityFrameworkTrail\DependecyInjectionEntityFramework\My.Models\obj\Debug\My.Models.pdb
